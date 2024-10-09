@@ -51,5 +51,5 @@ Before running the script, ensure you have the following:
 
 ---
 
-**Author:** [Your Name]  
-**Date:** [Today's Date]
+**Author:** Manoj Goswami  
+**Date:** 2024-10-09
